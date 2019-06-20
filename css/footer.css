@@ -1,0 +1,30 @@
+.footer {
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    font-weight: 100;
+    text-align: center;
+    color: white;
+}
+
+.SocialMedia {
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    font-weight: 300;
+    font-size: 25px;
+    text-align: center;
+    padding-bottom: 10px;
+    padding-top: 20px;
+}
+
+.icon {
+    padding-left: 20px;
+    padding-right: 20px;
+    color: white;
+}
+
+.icon :hover,
+.icon :focus,
+.icon :active,
+.icon :link {
+    color: gray;
+}

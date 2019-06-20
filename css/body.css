@@ -1,0 +1,53 @@
+body {
+    background: var(--blue);
+}
+
+#woodworking {
+    color: white;
+    margin-top: 600px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-bottom: :500px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: 200;
+}
+
+#skills {
+    margin:0;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+    margin-top: 600px;
+    margin-left: 300px;
+}
+
+.container {
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    padding-top: 100px;
+}
+
+.firstamsection {
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+}
+
+.amphotosection {
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 20px;
+}
+
+.resumedoc {
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+}

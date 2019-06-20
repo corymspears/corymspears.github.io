@@ -1,0 +1,25 @@
+.jumbotron {
+    background: url('../assets/brown-close-up-hd-wallpaper-172289.jpg') no-repeat center;
+    background-size: cover;
+    color: white;
+    text-align: center;
+    padding: 4em;
+}
+
+.display {
+    font-size: 130px;
+    font-family: 'Playfair Display', serif;
+    text-shadow: -2px -2px 8px #000000;
+    margin-top: 10px;
+}    
+
+.eagle {
+    margin-top: 70px;
+}
+
+.subdisplay {
+    font-family: 'Playfair Display', serif;
+    text-shadow: -2px -2px 8px #000000;
+    margin-top: 80px;
+
+}

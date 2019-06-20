@@ -1,0 +1,30 @@
+#contact {
+    color: white;
+    margin-top: 600px;
+    margin-bottom: 100px;
+    padding-left: 300px;
+    padding-right: 300px;
+}
+
+.inputLabels {
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: 200;
+}
+
+.inputFields {
+    color: black;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: 200;
+}
+
+.submitField {
+    color: black;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: 200;
+    display: flex;
+    justify-content: center;
+}

@@ -1,0 +1,10 @@
+#projects{
+    background: var(--blue);
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    font-family: 'Roboto', sans-serif; 
+    font-weight: 100;
+    padding: 100px;
+    padding-top: 200px;
+};
