@@ -1,53 +1,101 @@
 body {
-    background: var(--blue);
+    background-image: url('../assets/bluewoodbgd.png');
+    background-attachment: fixed;
 }
 
 #woodworking {
-    color: white;
-    margin-top: 600px;
     margin-left: 20px;
     margin-right: 20px;
-    padding-bottom: :500px;
+    padding-bottom: 40vh;
+    padding-top: 10vh;
+}
+
+.wwcontainer {
+    color: white;
+    font-family: 'Playfair Display', serif;
+    font-size: 50px;
+    font-weight: 400;
+}
+
+.aboutww {
+    color: white;
     font-family: 'Roboto', sans-serif;
     font-size: 20px;
     font-weight: 200;
-}
-
-#skills {
-    margin:0;
     display: flex;
-    justify-content: space-between;
-    color: white;
-    font-family: 'Roboto', sans-serif;
-    font-size: 30px;
-    font-weight: 400;
-    margin-top: 600px;
-    margin-left: 300px;
+    justify-content: center;
+    padding-top: 5vh;
 }
 
-.container {
+.skillscontainer {
+    padding-top: 5vh;
+    padding-bottom: 40vh;
+}
+
+.skillshead {
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    font-family: 'Playfair Display', serif;
+    font-size: 50px;
+    font-weight: 400;
+    padding-top: 20vh;
+}
+
+.col {
+    display: flex;
+    justify-content: space-evenly;
     font-family: 'Roboto', sans-serif;
     color: white;
-    padding-top: 100px;
+    font-size: 30px;
+    font-weight: 300;
+    padding-left: 9w;
+    padding-right: 9vw;
+}
+
+.amcontainer {
+    font-family: 'Playfair Display', serif;
+    font-size: 50px;
+    font-weight: 400;
+    color: white;
+    padding-top: 10vh;
 }
 
 .firstamsection {
-    font-family: 'Roboto', sans-serif;
     color: white;
+    font-family: 'Roboto', sans-serif;
     font-size: 20px;
+    font-weight: 200;
     display: flex;
     justify-content: center;
-    padding-top: 30px;
+    padding-top: 1vh;
 }
 
 .amphotosection {
     display: flex;
     justify-content: space-evenly;
     padding-top: 20px;
+    padding-bottom: 20vh;
+}
+
+#resume {
+    font-family: 'Playfair Display', serif;
+    font-size: 50px;
+    font-weight: 400;
+    color: white;
+    padding-top: 80px;
 }
 
 .resumedoc {
     display: flex;
     justify-content: center;
     padding-top: 20px;
+}
+
+.contactcontainer {
+    font-family: 'Playfair Display', serif;
+    font-size: 50px;
+    font-weight: 400;
+    padding-top: 10vh;
+    padding-bottom: 0px;
 }
