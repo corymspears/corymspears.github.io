@@ -25,6 +25,8 @@
 .icon :hover,
 .icon :focus,
 .icon :active,
-.icon :link {
-    color: gray;
+.icon :link,
+.socialicons>a:hover {
+    color: gray !important;
+    text-decoration: none;
 }
