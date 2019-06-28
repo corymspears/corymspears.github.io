@@ -27,6 +27,7 @@
 .icon :active,
 .icon :link,
 .socialicons>a:hover {
+    transition: all 0.2s ease-in-out;
     color: gray !important;
     text-decoration: none;
 }

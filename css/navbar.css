@@ -15,12 +15,15 @@
 
 .nav-link {
     color: white;
+    border-radius: 5px;
 }
 
 .nav-link:hover {
     color: var(--darkgray);
     font-family: 'Roboto', sans-serif;
     background-color: white;
+    transition: all 0.2s ease-in-out;
+    border-radius: 5px;
 }
 
 .navbar-brand {
@@ -32,6 +35,7 @@
 
 .navbar-brand:hover {
     color: gray !important;
+    transition: all 0.2s ease-in-out;
 }
 
 .nav-link {
