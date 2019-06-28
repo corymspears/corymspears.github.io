@@ -92,10 +92,18 @@ html {
     padding-top: 80px;
 }
 
+.downloadtag {
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    font-weight: 200;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
 .resumedoc {
     display: flex;
     justify-content: center;
-    padding-top: 20px;
 }
 
 .contactcontainer {
