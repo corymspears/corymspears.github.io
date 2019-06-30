@@ -16,14 +16,14 @@ html {
 
 .wwcontainer {
     color: white;
-    font-family: 'Playfair Display', serif;
+    font-family: 'Monsterrat', sans-serif;
     font-size: 50px;
-    font-weight: 400;
+    font-weight: 300;
 }
 
 .aboutww {
     color: white;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Raleway', sans-serif;
     font-size: 20px;
     font-weight: 200;
     text-align: center;
@@ -41,34 +41,34 @@ html {
     color: white;
     display: flex;
     justify-content: space-around;
-    font-family: 'Playfair Display', serif;
+    font-family: 'Monsterrat', sans-serif;
     font-size: 50px;
-    font-weight: 400;
+    font-weight: 300;
     padding-top: 20vh;
 }
 
 .col {
     display: flex;
     justify-content: space-evenly;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Raleway', sans-serif;
     color: white;
     font-size: 30px;
-    font-weight: 300;
+    font-weight: 200;
     padding-left: 9w;
     padding-right: 9vw;
 }
 
 .amcontainer {
-    font-family: 'Playfair Display', serif;
+    font-family: 'Monsterrat', sans-serif;
     font-size: 50px;
-    font-weight: 400;
+    font-weight: 300;
     color: white;
     padding-top: 10vh;
 }
 
 .firstamsection {
     color: white;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Raleway', sans-serif;
     font-size: 20px;
     font-weight: 200;
     text-align: center;
@@ -85,15 +85,15 @@ html {
 }
 
 #resume {
-    font-family: 'Playfair Display', serif;
+    font-family: 'Monsterrat', sans-serif;
     font-size: 50px;
-    font-weight: 400;
+    font-weight: 300;
     color: white;
     padding-top: 80px;
 }
 
 .downloadtag {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Raleway', sans-serif;
     font-size: 15px;
     font-weight: 200;
     color: white;
@@ -107,9 +107,9 @@ html {
 }
 
 .contactcontainer {
-    font-family: 'Playfair Display', serif;
+    font-family: 'Monsterrat', sans-serif;
     font-size: 50px;
-    font-weight: 400;
+    font-weight: 300;
     padding-top: 10vh;
     padding-bottom: 0px;
 }

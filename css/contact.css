@@ -8,21 +8,21 @@
 
 .inputLabels {
     color: white;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Raleway', sans-serif;
     font-size: 20px;
     font-weight: 200;
 }
 
 .inputFields {
     color: black;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Raleway', sans-serif;
     font-size: 20px;
     font-weight: 200;
 }
 
 .submitField {
     color: black;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Raleway', sans-serif;
     font-size: 20px;
     font-weight: 200;
     display: flex;

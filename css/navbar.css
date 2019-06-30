@@ -1,11 +1,11 @@
 .navbar {
     height: 70px;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Raleway', sans-serif;
 }
 
 .navbarnav{
-    font-family: 'Roboto', sans-serif;
-    font-weight: 200;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 300;
     font-size: 20px;
     display: inline-flex;
     flex-direction: row;
@@ -20,16 +20,16 @@
 
 .nav-link:hover {
     color: var(--darkgray);
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Raleway', sans-serif;
     background-color: white;
     transition: all 0.2s ease-in-out;
     border-radius: 5px;
 }
 
 .navbar-brand {
-    font-family: 'Playfair Display', serif;
+    font-family: 'Monsterrat', sans-serif;
     font-size: 30px;
-    font-weight: 400;
+    font-weight: 300;
     margin-left: 2vw;
 }
 
