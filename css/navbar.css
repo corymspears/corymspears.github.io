@@ -14,7 +14,7 @@
 }
 
 .nav-link {
-    color: white;
+    color: #f9f9f9;
     border-radius: 5px;
 }
 
@@ -29,7 +29,7 @@
 .navbar-brand {
     font-family: 'Monsterrat', sans-serif;
     font-size: 30px;
-    font-weight: 300;
+    font-weight: 700;
     margin-left: 2vw;
 }
 

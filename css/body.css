@@ -10,15 +10,15 @@ html {
 #woodworking {
     margin-left: 20px;
     margin-right: 20px;
-    padding-bottom: 40vh;
+    padding-bottom: 20vh;
     padding-top: 10vh;
 }
 
 .wwcontainer {
-    color: white;
+    color: #f9f9f9;
     font-family: 'Monsterrat', sans-serif;
     font-size: 50px;
-    font-weight: 300;
+    font-weight: 600;
 }
 
 .aboutww {
@@ -43,7 +43,7 @@ html {
     justify-content: space-around;
     font-family: 'Monsterrat', sans-serif;
     font-size: 50px;
-    font-weight: 300;
+    font-weight: 600;
     padding-top: 20vh;
 }
 
@@ -61,7 +61,7 @@ html {
 .amcontainer {
     font-family: 'Monsterrat', sans-serif;
     font-size: 50px;
-    font-weight: 300;
+    font-weight: 600;
     color: white;
     padding-top: 10vh;
 }
@@ -81,13 +81,13 @@ html {
     display: flex;
     justify-content: space-around;
     padding-top: 20px;
-    padding-bottom: 20vh;
+    padding-bottom: 10vh;
 }
 
 #resume {
     font-family: 'Monsterrat', sans-serif;
     font-size: 50px;
-    font-weight: 300;
+    font-weight: 600;
     color: white;
     padding-top: 80px;
 }
@@ -109,7 +109,8 @@ html {
 .contactcontainer {
     font-family: 'Monsterrat', sans-serif;
     font-size: 50px;
-    font-weight: 300;
-    padding-top: 10vh;
+    font-weight: 600;
+    color: #f9f9f9;
     padding-bottom: 0px;
+    padding-top: 10vh;
 }
