@@ -1,5 +1,5 @@
 #contact {
-    color: white;
+    color: #145374;
     margin-top: 300px;
     margin-bottom: 100px;
     padding-left: 300px;
@@ -7,10 +7,10 @@
 }
 
 .inputLabels {
-    color: white;
+    color: #3d3d3d;
     font-family: 'Raleway', sans-serif;
     font-size: 20px;
-    font-weight: 200;
+    font-weight: 400;
 }
 
 .inputFields {

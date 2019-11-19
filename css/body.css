@@ -1,6 +1,5 @@
 body {
-    background-image: url('../assets/bluewoodbgd.png');
-    background-attachment: fixed;
+    background-color: #f2eeeb;
 }
 
 html {
@@ -14,21 +13,31 @@ html {
     padding-top: 10vh;
 }
 
+.wwheader {
+    display: flex;
+    justify-content: right;
+}
+
 .wwcontainer {
-    color: #f9f9f9;
+    color: #145374;
     font-family: 'Monsterrat', sans-serif;
     font-size: 50px;
     font-weight: 600;
 }
 
-.aboutww {
-    color: white;
-    font-family: 'Raleway', sans-serif;
-    font-size: 20px;
-    font-weight: 200;
-    text-align: center;
+.wwwidget {
     display: flex;
     justify-content: center;
+}
+
+.aboutww {
+    color: #3d3d3d;
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    text-align: right;
+    display: flex;
+    justify-content: right;
     padding-top: 5vh;
 }
 
@@ -38,7 +47,7 @@ html {
 }
 
 .skillshead {
-    color: white;
+    color: #145374;
     display: flex;
     justify-content: space-around;
     font-family: 'Monsterrat', sans-serif;
@@ -51,9 +60,9 @@ html {
     display: flex;
     justify-content: space-evenly;
     font-family: 'Raleway', sans-serif;
-    color: white;
+    color: #3d3d3d;
     font-size: 30px;
-    font-weight: 200;
+    font-weight: 400;
     padding-left: 9w;
     padding-right: 9vw;
 }
@@ -62,15 +71,15 @@ html {
     font-family: 'Monsterrat', sans-serif;
     font-size: 50px;
     font-weight: 600;
-    color: white;
+    color: #145374;
     padding-top: 10vh;
 }
 
 .firstamsection {
-    color: white;
+    color: #3d3d3d;
     font-family: 'Raleway', sans-serif;
     font-size: 20px;
-    font-weight: 200;
+    font-weight: 400;
     text-align: center;
     display: flex;
     justify-content: center;
@@ -88,15 +97,15 @@ html {
     font-family: 'Monsterrat', sans-serif;
     font-size: 50px;
     font-weight: 600;
-    color: white;
+    color: #145374;
     padding-top: 80px;
 }
 
 .downloadtag {
     font-family: 'Raleway', sans-serif;
     font-size: 15px;
-    font-weight: 200;
-    color: white;
+    font-weight: 400;
+    color: #3d3d3d;
     display: flex;
     justify-content: center;
 }
@@ -110,7 +119,7 @@ html {
     font-family: 'Monsterrat', sans-serif;
     font-size: 50px;
     font-weight: 600;
-    color: #f9f9f9;
+    color: #145374;
     padding-bottom: 0px;
     padding-top: 10vh;
 }

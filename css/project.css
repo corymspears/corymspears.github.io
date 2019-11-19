@@ -1,5 +1,5 @@
 .projectscontainer {
-    color: white;
+    color: gray;
     display: flex;
     justify-content: space-around;
     padding: 100px;
@@ -7,17 +7,22 @@
 }
 
 .projectshead {
-    color: white;
-    display: flex;
-    justify-content: space-around;
+    color: #145374;
+    justify-content: center;
     font-family: 'Monsterrat', sans-serif;
     font-size: 50px;
     font-weight: 600;
     padding-top: 13vh;
+    padding-left: 155px;
 }
 
 .card-title {
     font-family: 'Raleway', sans-serif;
-    font-weight: 200;
+    font-weight: 400;
     font-size: 20px;
+}
+
+.btn {
+    background-color: green;
+
 }

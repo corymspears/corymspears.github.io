@@ -14,14 +14,14 @@
 }
 
 .nav-link {
-    color: #f9f9f9;
+    color: #f2eeeb;
     border-radius: 5px;
 }
 
 .nav-link:hover {
     color: var(--darkgray);
     font-family: 'Raleway', sans-serif;
-    background-color: white;
+    background-color: #f2eeeb;
     transition: all 0.2s ease-in-out;
     border-radius: 5px;
 }
