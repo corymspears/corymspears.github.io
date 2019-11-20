@@ -7,15 +7,14 @@ html {
 }
 
 #woodworking {
-    margin-left: 20px;
-    margin-right: 20px;
+    margin-left: 150px;
+    margin-right: 150px;
     padding-bottom: 20vh;
     padding-top: 10vh;
 }
 
 .wwheader {
-    display: flex;
-    justify-content: right;
+    text-align: right;
 }
 
 .wwcontainer {
@@ -36,8 +35,6 @@ html {
     font-size: 20px;
     font-weight: 400;
     text-align: right;
-    display: flex;
-    justify-content: right;
     padding-top: 5vh;
 }
 
@@ -53,7 +50,7 @@ html {
     font-family: 'Monsterrat', sans-serif;
     font-size: 50px;
     font-weight: 600;
-    padding-top: 20vh;
+    padding-top: 15vh;
 }
 
 .col {

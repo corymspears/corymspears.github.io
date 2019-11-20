@@ -3,7 +3,8 @@
     display: flex;
     justify-content: space-around;
     padding: 100px;
-    padding-top: 15vh;
+    padding-top: 5vh;
+    padding-bottom: 23vh;
 }
 
 .projectshead {
@@ -22,7 +23,26 @@
     font-size: 20px;
 }
 
-.btn {
-    background-color: green;
+.card {
+    align-items: center;
+}
 
+.card-img-top:hover{
+    opacity: 0.5;
+    transition: all 0.2s ease-in-out;
+}
+
+.btn {
+    background-color:#145374;
+    border-color: gray;
+    border-width: 2px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+    align-content: center;
+}
+
+.btn:hover{
+    background-color: gray;
+    color: #f2eeeb;
+    border-color: #145374;
 }
