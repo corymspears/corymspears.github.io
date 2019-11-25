@@ -1,10 +1,7 @@
-.projectscontainer {
+.card-deck {
     color: gray;
-    display: flex;
-    justify-content: space-around;
     padding: 100px;
     padding-top: 5vh;
-    padding-bottom: 23vh;
 }
 
 .projectshead {
@@ -24,7 +21,7 @@
 }
 
 .card {
-    align-items: center;
+        align-items: center;
 }
 
 .card-img-top:hover{
