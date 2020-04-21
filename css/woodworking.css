@@ -1,0 +1,31 @@
+#woodworking {
+    margin-left: 150px;
+    margin-right: 150px;
+    padding-bottom: 20vh;
+    padding-top: 10vh;
+}
+
+.wwheader {
+    text-align: right;
+}
+
+.wwcontainer {
+    color: #145374;
+    font-family: 'Roboto Slab', serif;    
+    font-size: 50px;
+    font-weight: 400;
+}
+
+.wwwidget {
+    display: flex;
+    justify-content: center;
+}
+
+.aboutww {
+    color: #3d3d3d;
+    font-family: 'Roboto', sans-serif;    
+    font-size: 20px;
+    font-weight: 400;
+    text-align: right;
+    padding-top: 5vh;
+}

@@ -1,0 +1,21 @@
+#resume {
+    font-family: 'Roboto Slab', serif;    
+    font-size: 50px;
+    font-weight: 400;
+    color: #145374;
+    padding-top: 80px;
+}
+
+.downloadtag {
+    font-family: 'Roboto', sans-serif;    
+    font-size: 15px;
+    font-weight: 400;
+    color: #3d3d3d;
+    display: flex;
+    justify-content: center;
+}
+
+.resumedoc {
+    display: flex;
+    justify-content: center;
+}

@@ -32,6 +32,6 @@
 .icon :link,
 .socialicons>a:hover {
     transition: all 0.2s ease-in-out;
-    color: gray !important;
+    color: #5087a5 !important;
     text-decoration: none;
 }
