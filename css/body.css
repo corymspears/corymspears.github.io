@@ -1,5 +1,5 @@
 body {
-    background-color: #f2eeeb;
+    background-color: #f2eeebe6;
 }
 
 html {
@@ -19,9 +19,9 @@ html {
 
 .wwcontainer {
     color: #145374;
-    font-family: 'Monsterrat', sans-serif;
+    font-family: 'Roboto Slab', serif;    
     font-size: 50px;
-    font-weight: 600;
+    font-weight: 400;
 }
 
 .wwwidget {
@@ -31,50 +31,33 @@ html {
 
 .aboutww {
     color: #3d3d3d;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;    
     font-size: 20px;
     font-weight: 400;
     text-align: right;
     padding-top: 5vh;
 }
 
-.skillscontainer {
-    padding-top: 5vh;
-    padding-bottom: 40vh;
-}
-
-.skillshead {
-    color: #145374;
-    display: flex;
-    justify-content: space-around;
-    font-family: 'Monsterrat', sans-serif;
-    font-size: 50px;
-    font-weight: 600;
-    padding-top: 15vh;
-}
-
 .col {
     display: flex;
     justify-content: space-evenly;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;    
     color: #3d3d3d;
     font-size: 30px;
     font-weight: 400;
-    padding-left: 9w;
-    padding-right: 9vw;
 }
 
 .amcontainer {
-    font-family: 'Monsterrat', sans-serif;
+    font-family: 'Roboto Slab', serif;
     font-size: 50px;
-    font-weight: 600;
+    font-weight: 400;
     color: #145374;
     padding-top: 10vh;
 }
 
 .firstamsection {
     color: #3d3d3d;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;    
     font-size: 20px;
     font-weight: 400;
     text-align: center;
@@ -91,15 +74,15 @@ html {
 }
 
 #resume {
-    font-family: 'Monsterrat', sans-serif;
+    font-family: 'Roboto Slab', serif;    
     font-size: 50px;
-    font-weight: 600;
+    font-weight: 400;
     color: #145374;
     padding-top: 80px;
 }
 
 .downloadtag {
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;    
     font-size: 15px;
     font-weight: 400;
     color: #3d3d3d;
@@ -113,9 +96,9 @@ html {
 }
 
 .contactcontainer {
-    font-family: 'Monsterrat', sans-serif;
+    font-family: 'Roboto Slab', serif;
     font-size: 50px;
-    font-weight: 600;
+    font-weight: 400;
     color: #145374;
     padding-bottom: 0px;
     padding-top: 10vh;

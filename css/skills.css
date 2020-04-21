@@ -1,0 +1,28 @@
+.skillscontainer {
+    padding-top: 5vh;
+    padding-bottom: 40vh;
+}
+
+.skillshead {
+    color: #145374;
+    display: flex;
+    justify-content: center;
+    font-family: 'Roboto Slab', serif;    
+    font-size: 50px;
+    font-weight: 400;
+    padding-top: 15vh;
+}
+
+.skilllogo{
+    max-width: 50px !important;
+    margin-right: 20px;
+}
+
+.skilllogo:hover{
+    opacity: 0.8 !important;
+    transition: all 0.2s ease-in-out;
+}
+
+.skilllink{
+    margin-bottom: 30px;
+}

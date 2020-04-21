@@ -2,15 +2,15 @@
     background: url('../assets/brown-close-up-hd-wallpaper-172289.png') no-repeat center;
     background-size: cover;
     background-color: black !important;
-    color: #f2eeeb;
+    color: #f2eeebe6;
     text-align: center;
     padding: 18vh;
 }
 
 .display {
     font-size: 130px;
-    font-family: 'Monsterrat', sans-serif;
-    font-weight: 700;
+    font-family: 'Lily Script One', cursive;    
+    font-weight: 400;
     text-shadow: -2px -2px 8px #000000;
     padding-top: 5px;
 }    
@@ -20,8 +20,8 @@
 }
 
 .subdisplay {
-    font-family: 'Raleway', sans-serif;
-    font-weight: 600;
+    font-family: 'Roboto', sans-serif;    
+    font-weight: 400;
     text-shadow: -2px -2px 8px #000000;
     margin-top: 80px;
 
