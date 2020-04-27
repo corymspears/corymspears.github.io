@@ -33,6 +33,14 @@ h5 {
     color: #f2eeebe6 !important; 
     font-weight: 600;
     font-size: 25px;
+    margin-top: 0;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+    color: #f2eeebe6 !important;
+    margin: 0;
+    padding: 0;
 }
 
 .card-img-top:hover{
