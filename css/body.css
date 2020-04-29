@@ -6,6 +6,11 @@ html {
     scroll-behavior: smooth !important;
 }
 
+.header {
+    color: #145374 !important;
+    font-family: 'Roboto Slab' !important;
+}
+
 .col {
     display: flex;
     justify-content: space-evenly;

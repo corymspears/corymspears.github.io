@@ -36,7 +36,7 @@ h5 {
     margin-top: 0;
 }
 
-p {
+.cardtext {
     font-family: 'Roboto', sans-serif;
     color: #f2eeebe6 !important;
     margin: 0;
